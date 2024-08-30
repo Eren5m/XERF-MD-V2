@@ -25,7 +25,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href="https://github.com/DAMON JEAGER/JEAGER MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/eren5m/JEAGER MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ### 2. GET PAIRING CODE SESSION
