@@ -8,13 +8,13 @@
 <img src="https://telegra.ph/file/a77bc277a3f7fc9fe77ff.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{DAMON JEAGER}/count.svg" alt="LustForlana: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/DAMON JEAGER/followers"><img title="Followers" src="https://img.shields.io/github/followers/DAMON JEAGER ?color=red&style=flat-square"></a>
-<a href="https://github.com/DAMON JEAGER/JEAGER MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/star/DAMON JEAGER/JEAGER MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DAMON JEAGER/JEAGER MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DAMON JEAGER/JEAGER MD?color=red&style=flat-square"></a>
-<a href="https://github.com/DAMON JEAGER/JEAGER MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DAMON JEAGER/JEAGER MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/LustForlana/XERF-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/DAMON JEAGER/JEAGER MD?style=flat-square&color=green"></a>
+<a href="https://github.com/eren5m/followers"><img title="Followers" src="https://img.shields.io/github/followers/eren5m?color=red&style=flat-square"></a>
+<a href="https://github.com/eren5m/JEAGER MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/star/eren5m/JEAGER MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/eren5m/JEAGER MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Eren5m/JEAGER MD?color=red&style=flat-square"></a>
+<a href="https://github.come/eren5m/JEAGER MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/eren5m/JEAGER MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/eren5m/JEAGER MD/"><img title="Size" src="https://img.shields.io/github/repo-size/eren5m/JEAGER MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen-Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DAMON JEAGER/JEAGER MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/eren5m/JEAGER MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
